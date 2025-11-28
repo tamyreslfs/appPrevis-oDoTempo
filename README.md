@@ -49,7 +49,7 @@ Abra o terminal do VS Code e siga os comandos:
 
 ```bash
 # 1. Clone este repositório
-git clone [https://github.com/SEU_USUARIO/SkyCast.git](https://github.com/SEU_USUARIO/SkyCast.git)
+git clone [https://github.com/tamyreslfs/appPrevis-oDoTempo.git]
 
 # 2. Entre na pasta do projeto
 cd SkyCast
@@ -80,15 +80,15 @@ No terminal, rode:
 npx expo start --clear
 ```
 
-# 1.Um QR Code aparecerá no terminal.
+###### 1.Um QR Code aparecerá no terminal.
 
-# 2.Abra o app Expo Go no seu celular.
+###### 2.Abra o app Expo Go no seu celular.
 
-# 3.Escaneie o QR Code.
+###### 3.Escaneie o QR Code.
 
-# 4.Pronto! O app carregará no seu dispositivo.
+###### 4.Pronto! O app carregará no seu dispositivo.
 
-#📂 Estrutura do Projeto
+##📂 Estrutura do Projeto
 
 O código foi organizado seguindo padrões de arquitetura limpa para facilitar a manutenção:
 
@@ -100,11 +100,11 @@ src/
 ├── types/           # Definições de tipagem TypeScript (Interfaces)
 └── utils/           # Funções auxiliares (Mapeador de cores/ícones)
 
-#📱 Screenshots
+##📱 Video demostrativo
 
 Tela Inicial,Busca de Cidade,Previsão
-(Insira aqui um print),(Insira aqui um print),(Insira aqui um print)
 
-#✒️ Autor
 
-Desenvolvido por [Seu Nome] para o curso de Desenvolvimento de Sistemas.
+##✒️ Autor
+
+Desenvolvido por Tamyres Lopes para o curso de Engenharia de software.
