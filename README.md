@@ -62,9 +62,9 @@ npm install
 
 Este projeto utiliza variáveis de ambiente para segurança. Você precisa criar um arquivo para armazenar sua chave da OpenWeatherMap.
 
-# 1.Crie um arquivo chamado .env na raiz do projeto (mesmo local do package.json).
+#### 1.Crie um arquivo chamado .env na raiz do projeto (mesmo local do package.json).
 
-# 2.Adicione a seguinte linha dentro dele:
+#### 2.Adicione a seguinte linha dentro dele:
 
 ```bash
 EXPO_PUBLIC_WEATHER_API_KEY=sua_chave_da_api_aqui
@@ -80,15 +80,15 @@ No terminal, rode:
 npx expo start --clear
 ```
 
-###### 1.Um QR Code aparecerá no terminal.
+##### 1.Um QR Code aparecerá no terminal.
 
-###### 2.Abra o app Expo Go no seu celular.
+##### 2.Abra o app Expo Go no seu celular.
 
-###### 3.Escaneie o QR Code.
+##### 3.Escaneie o QR Code.
 
-###### 4.Pronto! O app carregará no seu dispositivo.
+##### 4.Pronto! O app carregará no seu dispositivo.
 
-##📂 Estrutura do Projeto
+## 📂 Estrutura do Projeto
 
 O código foi organizado seguindo padrões de arquitetura limpa para facilitar a manutenção:
 
@@ -100,11 +100,12 @@ src/
 ├── types/           # Definições de tipagem TypeScript (Interfaces)
 └── utils/           # Funções auxiliares (Mapeador de cores/ícones)
 
-##📱 Video demostrativo
+## 📱 Video demostrativo
 
 Tela Inicial,Busca de Cidade,Previsão
+https://drive.google.com/file/d/1bVZG7bC795JtCTkRvGHlO3ZEeZfmJXBu/view?usp=sharing
 
 
-##✒️ Autor
+## ✒️ Autor
 
 Desenvolvido por Tamyres Lopes para o curso de Engenharia de software.
