@@ -93,11 +93,17 @@ npx expo start --clear
 O código foi organizado seguindo padrões de arquitetura limpa para facilitar a manutenção:
 
 src/
+
 ├── components/      # Componentes visuais reutilizáveis (Card, Listas, Inputs)
+
 ├── hooks/           # Lógica de estado e regras de negócio (Custom Hooks)
+
 ├── screens/         # Telas da aplicação (Home)
+
 ├── services/        # Configuração de chamadas API (fetch)
+
 ├── types/           # Definições de tipagem TypeScript (Interfaces)
+
 └── utils/           # Funções auxiliares (Mapeador de cores/ícones)
 
 ## 📱 Video demostrativo
